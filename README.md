@@ -56,3 +56,5 @@ Hello! I'm a **future IT innovator** passionate about **C++, Python, and AI**. B
 ---
 
 Made with ❤️ by **Adizbek Murodov (adizmurodov)**
+
+❤️‍🩹افا+ماف
