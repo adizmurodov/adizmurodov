@@ -1,4 +1,4 @@
-# 👋 Salom, men adizmurodov! / Hi, I'm adizmurodov!
+# 👋 Salom, men Adiz Murodov! / Hi, I'm Adiz Murodov!
 
 ## 🔭 Qisqacha (O‘zbekcha)
 Salom! Men **IT enthusiast va yosh dasturchi**man. Asosiy yo‘nalishlarim: **C++, Python, va Sun’iy Intellekt**. Quyida mening sevimli loyihalarim, aloqa ma’lumotlarim va qiziqishlarim keltirilgan.
@@ -21,12 +21,14 @@ Hello! I'm a **future IT innovator** passionate about **C++, Python, and AI**. B
 - [Python Telegram Bot](https://github.com/adizmurodov) — Foydalanuvchiga avtomatik javob beruvchi bot.
 - [Space Solar Simulation](https://github.com/adizmurodov) — Quyoshdan energiya olish va Yerga uzatishni simulyatsiya qiluvchi loyiha.
 
+  
+-  **Loyihalar sal kechro joylanadi**
 ---
 
 ## 🛠️ Ko‘nikmalar / Skills
 - Dasturlash tillari: **C++, Python, JavaScript (basic)**
 - Frontend: **HTML, CSS**
-- Backend: **(boshlang‘ich: Flask / Node.js o‘rganilmoqda)**
+- Backend: **(boshlang‘ich: Python / C++ Algoritm / Java / Node.js o‘rganilmoqda)**
 - Tools: **Git, GitHub, VS Code**
 - Boshqalar: **Problem-solving, Algorithm design**
 
@@ -49,7 +51,7 @@ Hello! I'm a **future IT innovator** passionate about **C++, Python, and AI**. B
 
 ## 🎲 Shaxsiy / Fun stuff
 - Hobbi: **Boks, sport mashqlari, IT loyihalar, kitob o‘qish**
-- Qiziqarli fakt: **“Men o‘zimga ishonaman va bir kun MIT robotini yarataman!”**
+- Qiziqarli fakt: **“Men o‘zimga ishonaman va bir kun MIT o`quvchisi  bolaman!”**
 
 ---
 
