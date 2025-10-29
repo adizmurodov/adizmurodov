@@ -9,15 +9,15 @@ Hello! I'm a **future IT innovator** passionate about **C++, Python, and AI**. B
 ---
 
 ## 🚀 Tajriba / What I do
-- 🔧 Asosiy texnologiyalar: **C++, Python, HTML/CSS, Git**
+- 🔧 Asosiy texnologiyalar: **C++, Python, HTML/CSS, GitHub**
 - 💼 Hozirda: **Maktab o‘quvchisi, MIT sari intilayotgan yosh dasturchi**
-- 🌱 Men hozir o‘rganmoqdaman: **Algorithms, Data Structures, AI/ML**
+- 🌱 Men hozir o‘rganmoqdaman: **Algorithms, Data Structures,DataBase**
 - 👯 Hamkorlik qilish: **Open-source, IT loyihalar, startup g‘oyalar**
 
 ---
 
 ## ⭐ Sevimli loyihalar / Favorite projects
-- [C++ Calculator](https://github.com/adizmurodov) — Oddiy arifmetik amallarni bajaruvchi dastur.
+
 - [Python Telegram Bot](https://github.com/adizmurodov) — Foydalanuvchiga avtomatik javob beruvchi bot.
 - [Space Solar Simulation](https://github.com/adizmurodov) — Quyoshdan energiya olish va Yerga uzatishni simulyatsiya qiluvchi loyiha.
 
@@ -27,7 +27,7 @@ Hello! I'm a **future IT innovator** passionate about **C++, Python, and AI**. B
 
 ## 🛠️ Ko‘nikmalar / Skills
 - Dasturlash tillari: **C++, Python, JavaScript (basic)**
-- Frontend: **HTML, CSS**
+- Frontend: **HTML, CSS, JAVASCRIPT**
 - Backend: **(boshlang‘ich: Python / C++ Algoritm / Java / Node.js o‘rganilmoqda)**
 - Tools: **Git, GitHub, VS Code**
 - Boshqalar: **Problem-solving, Algorithm design**
@@ -51,7 +51,7 @@ Hello! I'm a **future IT innovator** passionate about **C++, Python, and AI**. B
 
 ## 🎲 Shaxsiy / Fun stuff
 - Hobbi: **Boks, sport mashqlari, IT loyihalar, kitob o‘qish**
-- Qiziqarli fakt: **“Men o‘zimga ishonaman va bir kun MIT o`quvchisi  bolaman!”**
+- Maqsad: **“Men o‘zimga ishonaman va bir kun MIT o`quvchisi  bolaman!”**
 
 ---
 
