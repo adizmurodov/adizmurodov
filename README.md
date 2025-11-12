@@ -20,8 +20,6 @@ Hello! I'm a **future IT innovator** passionate about **C++, Python, and AI**. B
 
 - [Python Telegram Bot](https://github.com/adizmurodov) — Foydalanuvchiga avtomatik javob beruvchi bot.
 - [Space Solar Simulation](https://github.com/adizmurodov) — Quyoshdan energiya olish va Yerga uzatishni simulyatsiya qiluvchi loyiha.
-
-  
 -  **Loyihalar sal kechro joylanadi**
 ---
 
@@ -39,7 +37,7 @@ Hello! I'm a **future IT innovator** passionate about **C++, Python, and AI**. B
 - LinkedIn: *(tez orada qo‘shiladi)*
 - Telegram: [@](https://t.me/)
 - Email: **adiz0777murodov@gmail.com**
-- Portfolio: *(keyinchalik shaxsiy veb-sayt qo‘shish mumkin)*
+- Portfolio: *https://adizmurodov.github.io/About-ME/*
 
 ---
 
