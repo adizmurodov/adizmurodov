@@ -27,7 +27,7 @@ Hello! I'm a **future IT innovator** passionate about **C++, Python, and AI**. B
 - Dasturlash tillari: **C++, Python, JavaScript (basic)**
 - Frontend: **HTML, CSS, JAVASCRIPT**
 - Backend: **(boshlang‘ich: Python / C++ Algoritm / Java / Node.js o‘rganilmoqda)**
-- Tools: **Git, GitHub, VS Code**
+- Tools: **Git , Frontend Mentor , GitHub , VS Code**
 - Boshqalar: **Problem-solving, Algorithm design**
 
 ---
