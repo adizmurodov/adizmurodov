@@ -34,7 +34,7 @@ Hello! I'm a **future IT innovator** passionate about **C++, Python, and AI**. B
 
 ## 📫 Aloqa / Contact
 - GitHub: [github.com/adizmurodov](https://github.com/adizmurodov)
-- LinkedIn: *(tez orada qo‘shiladi)*
+- LinkedIn: *https://www.linkedin.com/in/%D0%B0%D0%B4%D0%B8%D0%B7%D0%B1%D0%B5%D0%BA-%D0%BC%D1%83%D1%80%D0%BE%D0%B4%D0%BE%D0%B2-36560037b/*
 - Telegram: [@](https://t.me/)
 - Email: **adiz0777murodov@gmail.com**
 - Portfolio: *https://adizmurodov.github.io/About-ME/*
